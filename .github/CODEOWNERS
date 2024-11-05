@@ -6,5 +6,5 @@
 # Codeowner for .github is auto set by GitHub vending
 /.github/ @helse-sorost/demo-devsecops-codeowner-github
 
-# .github/CODEOWNERS is owned by Organization admins. Should only be changed by updating config in repo github-vending
-/.github/CODEOWNERS @helse-sorost/admins
+# .github/CODEOWNERS should only be changed by updating config in repo github-vending, thus the owner is set to "CODEOWNERS no-one"
+/.github/CODEOWNERS @helse-sorost/codeowners-no-one
