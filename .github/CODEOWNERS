@@ -4,7 +4,7 @@
 # Owners for specific folders can be added here by updating config in repo github-vending.
 
 # Codeowner for .github is auto set by GitHub vending
-/.github/ @helse-sorost/demo-devsecops-codeowner-github
+/.github/ @helse-sorost/demo-devsecops-codeowner-github-priv
 
 # .github/CODEOWNERS should only be changed by updating config in repo github-vending, thus the owner is set to "CODEOWNERS no-one"
 /.github/CODEOWNERS @helse-sorost/codeowners-no-one
